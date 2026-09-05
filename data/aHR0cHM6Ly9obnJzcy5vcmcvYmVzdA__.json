@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Flock used >100 times to track veteran who recorded traffic stop",
+      "link": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
+      "pubDate": "Sat, 05 Sep 2026 16:48:13 +0000",
+      "isoDate": "2026-09-05T16:48:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/\">https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49578310\">https://news.ycombinator.com/item?id=49578310</a></p>\n<p>Points: 304</p>\n<p># Comments: 149</p>\n",
+      "contentSnippet": "Article URL: https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/\nComments URL: https://news.ycombinator.com/item?id=49578310\nPoints: 304\n# Comments: 149",
+      "creator": "bbatsell",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+      "pubDate": "Sat, 05 Sep 2026 14:40:52 +0000",
+      "isoDate": "2026-09-05T14:40:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen\">https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576986\">https://news.ycombinator.com/item?id=49576986</a></p>\n<p>Points: 225</p>\n<p># Comments: 67</p>\n",
+      "contentSnippet": "Article URL: https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen\nComments URL: https://news.ycombinator.com/item?id=49576986\nPoints: 225\n# Comments: 67",
+      "creator": "stevenwoo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Global warming will exceed 1.5-degree limit, UN says",
+      "link": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+      "pubDate": "Sat, 05 Sep 2026 13:02:14 +0000",
+      "isoDate": "2026-09-05T13:02:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone\">https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576124\">https://news.ycombinator.com/item?id=49576124</a></p>\n<p>Points: 281</p>\n<p># Comments: 309</p>\n",
+      "contentSnippet": "Article URL: https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone\nComments URL: https://news.ycombinator.com/item?id=49576124\nPoints: 281\n# Comments: 309",
+      "creator": "ijidak",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Netherlands pulls gold out of the US",
+      "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "pubDate": "Sat, 05 Sep 2026 10:14:28 +0000",
+      "isoDate": "2026-09-05T10:14:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\">https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575034\">https://news.ycombinator.com/item?id=49575034</a></p>\n<p>Points: 320</p>\n<p># Comments: 225</p>\n",
+      "contentSnippet": "Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\nComments URL: https://news.ycombinator.com/item?id=49575034\nPoints: 320\n# Comments: 225",
+      "creator": "daniel_iversen",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "pubDate": "Sat, 05 Sep 2026 07:52:50 +0000",
+      "isoDate": "2026-09-05T07:52:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49574167\">https://news.ycombinator.com/item?id=49574167</a></p>\n<p>Points: 314</p>\n<p># Comments: 280</p>\n",
+      "contentSnippet": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\nComments URL: https://news.ycombinator.com/item?id=49574167\nPoints: 314\n# Comments: 280",
+      "creator": "sylvainkalache",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Git hosting that never leaves Europe",
+      "link": "https://pushin.eu",
+      "pubDate": "Sat, 05 Sep 2026 06:31:49 +0000",
+      "isoDate": "2026-09-05T06:31:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://pushin.eu\">https://pushin.eu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49573680\">https://news.ycombinator.com/item?id=49573680</a></p>\n<p>Points: 249</p>\n<p># Comments: 132</p>\n",
+      "contentSnippet": "Article URL: https://pushin.eu\nComments URL: https://news.ycombinator.com/item?id=49573680\nPoints: 249\n# Comments: 132",
+      "creator": "sevenseacat",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Nitter has more working instances than before the takedowns",
+      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "pubDate": "Sat, 05 Sep 2026 00:04:16 +0000",
+      "isoDate": "2026-09-05T00:04:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://codeberg.org/mv12star/shitter/wiki/Instances\">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571634\">https://news.ycombinator.com/item?id=49571634</a></p>\n<p>Points: 524</p>\n<p># Comments: 217</p>\n",
+      "contentSnippet": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 524\n# Comments: 217",
+      "creator": "Cider9986",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "pubDate": "Fri, 04 Sep 2026 23:38:50 +0000",
+      "isoDate": "2026-09-04T23:38:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571465\">https://news.ycombinator.com/item?id=49571465</a></p>\n<p>Points: 231</p>\n<p># Comments: 136</p>\n",
+      "contentSnippet": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\nComments URL: https://news.ycombinator.com/item?id=49571465\nPoints: 231\n# Comments: 136",
+      "creator": "cebert",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "pubDate": "Fri, 04 Sep 2026 22:03:16 +0000",
+      "isoDate": "2026-09-04T22:03:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\">https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570772\">https://news.ycombinator.com/item?id=49570772</a></p>\n<p>Points: 531</p>\n<p># Comments: 466</p>\n",
+      "contentSnippet": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\nComments URL: https://news.ycombinator.com/item?id=49570772\nPoints: 531\n# Comments: 466",
+      "creator": "karakoram",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "pubDate": "Fri, 04 Sep 2026 21:52:01 +0000",
+      "isoDate": "2026-09-04T21:52:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570669\">https://news.ycombinator.com/item?id=49570669</a></p>\n<p>Points: 701</p>\n<p># Comments: 401</p>\n",
+      "contentSnippet": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046\nComments URL: https://news.ycombinator.com/item?id=49570669\nPoints: 701\n# Comments: 401",
+      "creator": "negura",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "link": "https://openrouter.ai/openai/gpt-6-astra",
+      "pubDate": "Fri, 04 Sep 2026 21:39:19 +0000",
+      "isoDate": "2026-09-04T21:39:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openrouter.ai/openai/gpt-6-astra\">https://openrouter.ai/openai/gpt-6-astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570545\">https://news.ycombinator.com/item?id=49570545</a></p>\n<p>Points: 285</p>\n<p># Comments: 210</p>\n",
+      "contentSnippet": "Article URL: https://openrouter.ai/openai/gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49570545\nPoints: 285\n# Comments: 210",
+      "creator": "Topfi",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Statichost.eu – European static site hosting",
+      "link": "https://www.statichost.eu/",
+      "pubDate": "Fri, 04 Sep 2026 20:34:49 +0000",
+      "isoDate": "2026-09-04T20:34:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.statichost.eu/\">https://www.statichost.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569896\">https://news.ycombinator.com/item?id=49569896</a></p>\n<p>Points: 404</p>\n<p># Comments: 188</p>\n",
+      "contentSnippet": "Article URL: https://www.statichost.eu/\nComments URL: https://news.ycombinator.com/item?id=49569896\nPoints: 404\n# Comments: 188",
+      "creator": "p4bl0",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "pubDate": "Fri, 04 Sep 2026 19:48:29 +0000",
+      "isoDate": "2026-09-04T19:48:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://eebench.org/blog/can-ai-design-circuit-boards-yet/\">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569366\">https://news.ycombinator.com/item?id=49569366</a></p>\n<p>Points: 331</p>\n<p># Comments: 197</p>\n",
+      "contentSnippet": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/\nComments URL: https://news.ycombinator.com/item?id=49569366\nPoints: 331\n# Comments: 197",
+      "creator": "iopapa",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "pubDate": "Fri, 04 Sep 2026 18:50:28 +0000",
+      "isoDate": "2026-09-04T18:50:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\">https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568579\">https://news.ycombinator.com/item?id=49568579</a></p>\n<p>Points: 421</p>\n<p># Comments: 205</p>\n",
+      "contentSnippet": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\nComments URL: https://news.ycombinator.com/item?id=49568579\nPoints: 421\n# Comments: 205",
+      "creator": "mywacaday",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "Fri, 04 Sep 2026 18:42:56 +0000",
+      "isoDate": "2026-09-04T18:42:56.000Z",
+      "content": "\n<p><a href=\"https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/\" rel=\"nofollow\">https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568506\">https://news.ycombinator.com/item?id=49568506</a></p>\n<p>Points: 715</p>\n<p># Comments: 454</p>\n",
+      "contentSnippet": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...\nComments URL: https://news.ycombinator.com/item?id=49568506\nPoints: 715\n# Comments: 454",
+      "creator": "jlebar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Nobody is saying why OpenAI and Anthropic had outages",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "pubDate": "Fri, 04 Sep 2026 17:29:22 +0000",
+      "isoDate": "2026-09-04T17:29:22.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/3zcMG\" rel=\"nofollow\">https://archive.ph/3zcMG</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567594\">https://news.ycombinator.com/item?id=49567594</a></p>\n<p>Points: 202</p>\n<p># Comments: 4</p>\n",
+      "contentSnippet": "https://archive.ph/3zcMG\nComments URL: https://news.ycombinator.com/item?id=49567594\nPoints: 202\n# Comments: 4",
+      "creator": "jslakro",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "link": "https://opentrailpaper.com",
+      "pubDate": "Fri, 04 Sep 2026 17:18:08 +0000",
+      "isoDate": "2026-09-04T17:18:08.000Z",
+      "content": "\n<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href=\"https://github.com/RaemondBW/esp32-ant\" rel=\"nofollow\">https://github.com/RaemondBW/esp32-ant</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567437\">https://news.ycombinator.com/item?id=49567437</a></p>\n<p>Points: 360</p>\n<p># Comments: 113</p>\n",
+      "contentSnippet": "Hey all, i just launched my Eink Bike computer project and think it is cool.\nAnother tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: https://github.com/RaemondBW/esp32-ant\nComments URL: https://news.ycombinator.com/item?id=49567437\nPoints: 360\n# Comments: 113",
+      "creator": "stingrae",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "pubDate": "Fri, 04 Sep 2026 16:46:59 +0000",
+      "isoDate": "2026-09-04T16:46:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/\">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567053\">https://news.ycombinator.com/item?id=49567053</a></p>\n<p>Points: 411</p>\n<p># Comments: 242</p>\n",
+      "contentSnippet": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/\nComments URL: https://news.ycombinator.com/item?id=49567053\nPoints: 411\n# Comments: 242",
+      "creator": "speckx",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "pubDate": "Fri, 04 Sep 2026 15:33:45 +0000",
+      "isoDate": "2026-09-04T15:33:45.000Z",
+      "content": "\n<p><a href=\"https://archive.is/kmOqm\" rel=\"nofollow\">https://archive.is/kmOqm</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49566137\">https://news.ycombinator.com/item?id=49566137</a></p>\n<p>Points: 313</p>\n<p># Comments: 292</p>\n",
+      "contentSnippet": "https://archive.is/kmOqm\nComments URL: https://news.ycombinator.com/item?id=49566137\nPoints: 313\n# Comments: 292",
+      "creator": "aaraujo002",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "IBM Bob",
+      "link": "https://bob.ibm.com/",
+      "pubDate": "Fri, 04 Sep 2026 12:50:29 +0000",
+      "isoDate": "2026-09-04T12:50:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bob.ibm.com/\">https://bob.ibm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563851\">https://news.ycombinator.com/item?id=49563851</a></p>\n<p>Points: 317</p>\n<p># Comments: 323</p>\n",
+      "contentSnippet": "Article URL: https://bob.ibm.com/\nComments URL: https://news.ycombinator.com/item?id=49563851\nPoints: 317\n# Comments: 323",
+      "creator": "artpar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "pubDate": "Fri, 04 Sep 2026 11:59:15 +0000",
+      "isoDate": "2026-09-04T11:59:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products\">https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563386\">https://news.ycombinator.com/item?id=49563386</a></p>\n<p>Points: 393</p>\n<p># Comments: 74</p>\n",
+      "contentSnippet": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products\nComments URL: https://news.ycombinator.com/item?id=49563386\nPoints: 393\n# Comments: 74",
+      "creator": "DeepLogin",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "link": "https://collusion.wiki/",
+      "pubDate": "Fri, 04 Sep 2026 11:54:53 +0000",
+      "isoDate": "2026-09-04T11:54:53.000Z",
+      "content": "\n<p><a href=\"https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/\" rel=\"nofollow\">https://www.reuters.com/world/europe/openai-agents-hijacked-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563355\">https://news.ycombinator.com/item?id=49563355</a></p>\n<p>Points: 1981</p>\n<p># Comments: 1476</p>\n",
+      "contentSnippet": "https://www.reuters.com/world/europe/openai-agents-hijacked-...\nComments URL: https://news.ycombinator.com/item?id=49563355\nPoints: 1981\n# Comments: 1476",
+      "creator": "moultano",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "link": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "pubDate": "Fri, 04 Sep 2026 10:17:01 +0000",
+      "isoDate": "2026-09-04T10:17:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jestoph.com/2026/09/04/jane-street-challenge.html\">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562657\">https://news.ycombinator.com/item?id=49562657</a></p>\n<p>Points: 426</p>\n<p># Comments: 95</p>\n",
+      "contentSnippet": "Article URL: https://jestoph.com/2026/09/04/jane-street-challenge.html\nComments URL: https://news.ycombinator.com/item?id=49562657\nPoints: 426\n# Comments: 95",
+      "creator": "anitil",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Hackers had a live feed of every ID verification company scanned for over a year",
+      "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "pubDate": "Fri, 04 Sep 2026 06:47:51 +0000",
+      "isoDate": "2026-09-04T06:47:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561320\">https://news.ycombinator.com/item?id=49561320</a></p>\n<p>Points: 548</p>\n<p># Comments: 246</p>\n",
+      "contentSnippet": "Article URL: http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\nComments URL: https://news.ycombinator.com/item?id=49561320\nPoints: 548\n# Comments: 246",
+      "creator": "beardyw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "pubDate": "Thu, 03 Sep 2026 21:20:34 +0000",
+      "isoDate": "2026-09-03T21:20:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 294</p>\n<p># Comments: 148</p>\n",
+      "contentSnippet": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install\nComments URL: https://news.ycombinator.com/item?id=49557206\nPoints: 294\n# Comments: 148",
+      "creator": "screm",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "link": "https://arcprize.org/blog/astra",
+      "pubDate": "Thu, 03 Sep 2026 19:45:00 +0000",
+      "isoDate": "2026-09-03T19:45:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arcprize.org/blog/astra\">https://arcprize.org/blog/astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a></p>\n<p>Points: 234</p>\n<p># Comments: 150</p>\n",
+      "contentSnippet": "Article URL: https://arcprize.org/blog/astra\nComments URL: https://news.ycombinator.com/item?id=49555691\nPoints: 234\n# Comments: 150",
+      "creator": "vignesh_warar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The asteroid currently hitting front end web development",
+      "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "pubDate": "Thu, 03 Sep 2026 19:17:24 +0000",
+      "isoDate": "2026-09-03T19:17:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/\">https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49555233\">https://news.ycombinator.com/item?id=49555233</a></p>\n<p>Points: 223</p>\n<p># Comments: 274</p>\n",
+      "contentSnippet": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/\nComments URL: https://news.ycombinator.com/item?id=49555233\nPoints: 223\n# Comments: 274",
+      "creator": "codechicago277",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GPT-6 Astra",
+      "link": "https://openai.com/index/gpt-6-astra/",
+      "pubDate": "Thu, 03 Sep 2026 18:41:05 +0000",
+      "isoDate": "2026-09-03T18:41:05.000Z",
+      "content": "\n<p>System Card: <a href=\"https://deploymentsafety.openai.com/gpt-6-astra\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI's GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href=\"https://news.ycombinator.com/item?id=49556147\">https://news.ycombinator.com/item?id=49556147</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554643\">https://news.ycombinator.com/item?id=49554643</a></p>\n<p>Points: 2211</p>\n<p># Comments: 2025</p>\n",
+      "contentSnippet": "System Card: https://deploymentsafety.openai.com/gpt-6-astra\nRelated ongoing threads:\nOpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691\nGPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147\nComments URL: https://news.ycombinator.com/item?id=49554643\nPoints: 2211\n# Comments: 2025",
+      "creator": "kibae",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "link": "https://inference-docs.cerebras.ai/models/overview",
+      "pubDate": "Thu, 03 Sep 2026 18:32:13 +0000",
+      "isoDate": "2026-09-03T18:32:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://inference-docs.cerebras.ai/models/overview\">https://inference-docs.cerebras.ai/models/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554520\">https://news.ycombinator.com/item?id=49554520</a></p>\n<p>Points: 683</p>\n<p># Comments: 224</p>\n",
+      "contentSnippet": "Article URL: https://inference-docs.cerebras.ai/models/overview\nComments URL: https://news.ycombinator.com/item?id=49554520\nPoints: 683\n# Comments: 224",
+      "creator": "altertable",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "pubDate": "Thu, 03 Sep 2026 18:18:22 +0000",
+      "isoDate": "2026-09-03T18:18:22.000Z",
+      "content": "\n<p><a href=\"https://thenewstack.io/openai-gpt6-astra-benchmarks/\" rel=\"nofollow\">https://thenewstack.io/openai-gpt6-astra-benchmarks/</a>, image: <a href=\"https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot-2026-09-03-at-10.51.35-am.png\" rel=\"nofollow\">https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot...</a><p><a href=\"https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra\" rel=\"nofollow\">https://venturebeat.com/technology/welcome-to-the-agi-era-op...</a><p><a href=\"https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety\" rel=\"nofollow\">https://www.theverge.com/ai-artificial-intelligence/988334/o...</a><p><a href=\"https://twitter.com/OpenAI/status/2095595741528125780\" rel=\"nofollow\">https://twitter.com/OpenAI/status/2095595741528125780</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554273\">https://news.ycombinator.com/item?id=49554273</a></p>\n<p>Points: 277</p>\n<p># Comments: 253</p>\n",
+      "contentSnippet": "https://thenewstack.io/openai-gpt6-astra-benchmarks/, image: https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot...\nhttps://venturebeat.com/technology/welcome-to-the-agi-era-op...\nhttps://www.theverge.com/ai-artificial-intelligence/988334/o...\nhttps://twitter.com/OpenAI/status/2095595741528125780\nComments URL: https://news.ycombinator.com/item?id=49554273\nPoints: 277\n# Comments: 253",
+      "creator": "maskil",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T20:05:15.019Z"
+}
